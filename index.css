@@ -41,4 +41,13 @@ img {
 
 .icon {
     font-size: 4em;
+    padding-top: .25em;
+}
+
+.top {
+    font-size: 2em;
+    position:absolute;
+    right: 0;
+    text-decoration: none;
+    color: #000;
 }

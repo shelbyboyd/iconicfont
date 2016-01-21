@@ -11,8 +11,30 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
+    background-color: #fdfae7;
 }
 
 *, *:before, *:after {
 	box-sizing: inherit;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #18ceab;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.25em;
+    padding: 1em;
+    display: block;
+    margin: .25em;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    margin: .25em;
 }
